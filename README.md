@@ -11,16 +11,6 @@ The application supports **both 4×4 and 9×9 grids** and includes a visual step
 
 ---
 
-## 📸 Application Preview
-
-### 4×4 Sudoku (Solved)
-![4x4 Sudoku]("E:\CTI\An_IV\Semestrul_I\IA_IntelingentaArtificiala\Proiect_Sudoku\Sudoku_ForwardChecking\image2.png")
-
-### 9×9 Sudoku (Solved)
-![9x9 Sudoku]("E:\CTI\An_IV\Semestrul_I\IA_IntelingentaArtificiala\Proiect_Sudoku\Sudoku_ForwardChecking\image3.png")
-
----
-
 ## 🚀 Features
 
 - Backtracking-based Sudoku solver  
